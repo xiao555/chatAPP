@@ -88,7 +88,7 @@ export default {
       this.socket.on('login', data => {
         this.connected = true;
         // Display the welcome message
-        var message = "Welcome to Library Chat – ";
+        var message = "Welcome to chatAPP – ";
         this.logMessage(message, {
           prepend: true
         });
