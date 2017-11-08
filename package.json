@@ -1,7 +1,7 @@
 {
   "name": "chatapp",
   "version": "1.0.0",
-  "description": "A chatAPP for our library system.",
+  "description": "An online live chat app embedded in HTML by Vue Component and Socket.io",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -15,7 +15,7 @@
     "chatapp",
     "socket.io"
   ],
-  "author": "xiao555",
+  "author": "xiao555 <zhangruiwu32@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/xiao555/chatAPP/issues"
